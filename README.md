@@ -121,4 +121,8 @@ $ tensorboard --logdir logs
 By RAM-Team: <a href="https://github.com/mohamedelmesawy" target="_blank">MOhamed ElMesawy</a>, <a href="https://github.com/Afnaaan" target="_blank">Afnan Hamdy</a>, <a href="https://github.com/Rawan-97" target="_blank">Rowan ElMahalawy</a>, <a href="https://github.com/alihasanine" target="_blank">Ali Hassanin</a>, and <a href="https://github.com/MSamaha91" target="_blank">MOhamed Samaha</a>
 &#xa0; 
 
+## Acknowledgements ##
+This code was built on this repo [CARLA RL](https://github.com/Sentdex/Carla-RL) and this book [Hands-On Reinforcement Learning with Python](https://github.com/PacktPublishing/Hands-On-Reinforcement-Learning-with-Python). 
+
+
 <a href="#top">Back to top</a>
