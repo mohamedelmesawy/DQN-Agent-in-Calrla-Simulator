@@ -1,9 +1,8 @@
 # DQN-Agent in Carla Simulator - Self Driving Car
 
 <div align="center" id="top"> 
- 
 
-https://user-images.githubusercontent.com/28452932/152062821-d9f378ca-376f-4d68-8aae-d08f68709062.mp4
+https://user-images.githubusercontent.com/28452932/152066175-7651ca22-af68-4e79-873f-46fd1973d829.mp4
 
 
 </div>
